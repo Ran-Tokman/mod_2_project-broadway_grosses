@@ -19,21 +19,21 @@ Link to presentation slideshow: https://docs.google.com/presentation/d/1beP4vmAZ
 ## Data Cleaning
 
 * Narrowing the data to a period of 10 years (2008-2018):
-<img src="Image 1.png">
+<img src="./Images/Image1.png">
 
 * Cleaning up missing data:
-<img src="Image 2.png">
+<img src="./Images/Image2.png">
 
 Luckily the data from 2008-2018 was consistently reliable, so there wasn't too much data clenaing to be done.
 
 * Creating new column for new variable (Season):
-<img src="Image 3.png">
+<img src="./Images/Image3.png">
 
 I wanted to see if seasonality affects the success of the show. 
 
 ## Initial Observations
 
-<img src="Image 4.png">
+<img src="./Images/Image4.png">
 
 
 
